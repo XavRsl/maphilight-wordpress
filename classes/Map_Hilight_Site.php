@@ -3,7 +3,7 @@
  * Title: Map Hilight
  * Description: MapHilight makes it easy to integrate the javascript needed to make your maps or images interactive
  * @author Xavier Roussel
- * @version 0.1
+ * @version 0.2
  */
 class Map_Hilight_Site {
 	/**

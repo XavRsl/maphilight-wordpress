@@ -4,9 +4,9 @@ Plugin Name: MapHilight
 Plugin URI: 
 Description: MapHilight makes it easy to integrate the javascript needed to make your maps or images interactive.
 
-Version: 0.1
+Version: 0.2
 Requires at least: 3.3
-Tested up to: 3.4.1
+Tested up to: 3.4.2
 
 Author: Xavier Roussel
 Author URI: http://www.xavrsl.fr
