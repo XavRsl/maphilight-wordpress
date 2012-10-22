@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: MapHilight
-Plugin URI: 
+Plugin URI: http://wordpress.org/extend/plugins/maphilight/
 Description: MapHilight makes it easy to integrate the javascript needed to make your maps or images interactive.
 
 Version: 0.2
